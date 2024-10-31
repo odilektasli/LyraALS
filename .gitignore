@@ -39,3 +39,7 @@ Plugins/FMODStudio/Binaries/Win64/Unreal*.*
 #Audio
 Content/ProjectCC/Audio/TestAudio
 
+#Plugins
+Plugins/BlueprintAssist/Binaries/*
+Plugins/BlueprintAssist/Intermediate/*
+Plugins/BlueprintAssist/NodeSizeCache/*
