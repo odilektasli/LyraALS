@@ -24,7 +24,7 @@ Plugins/Developer/RiderLink
 ProjectCC.sln.DotSettings.user
 Plugins/BlueprintAssist/Binaries/*
 Plugins/BlueprintAssist/Intermediate/*
-Plugins/BlueprintAssist/**/*
+Plugins/BlueprintAssist/NodeSizeCache/*
 Config/DefaultEditorPerProjectUserSettings.ini
 
 
